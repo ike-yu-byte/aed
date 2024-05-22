@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152.487374px" height="180.510478px" viewBox="0 0 152.487374 180.510478" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>大头针</title>
+    <defs>
+        <linearGradient x1="50%" y1="3.8847228%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C4CEEE" offset="0%"></stop>
+            <stop stop-color="#9AA2C2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.0696768696%" x2="41.5883126%" y2="99.9303231%" id="linearGradient-2">
+            <stop stop-color="#1CBFFF" offset="0%"></stop>
+            <stop stop-color="#0189FF" offset="33.6341939%"></stop>
+            <stop stop-color="#0030FF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-3" cx="46.6500521" cy="46.6175365" rx="46.6500521" ry="46.6175365"></ellipse>
+        <linearGradient x1="42.40053%" y1="84.8036135%" x2="59.1614704%" y2="13.1485167%" id="linearGradient-5">
+            <stop stop-color="#01A7FF" offset="0%"></stop>
+            <stop stop-color="#038EFF" offset="43.5321454%"></stop>
+            <stop stop-color="#038CFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.86128575%" y1="97.025401%" x2="104.14742%" y2="-8.64026189%" id="linearGradient-6">
+            <stop stop-color="#9CA6C9" stop-opacity="0.792640953" offset="0%"></stop>
+            <stop stop-color="#B8C0DD" stop-opacity="0.0259616849" offset="100%"></stop>
+            <stop stop-color="#A1AACB" stop-opacity="0.983336976" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-17.1%" y="-17.5%" width="134.2%" height="134.9%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="5.16245791 5.42394435" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.12.移动地图选择" transform="translate(-379, -776.5607)">
+            <g id="大头针" transform="translate(379, 775)">
+                <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="137" height="167"></rect>
+                <g id="编组-5" transform="translate(0, 1.5607)">
+                    <path d="M48.2645911,63.0026241 L48.2635797,63.0289558 C52.3560162,63.2824718 55.4628773,65.3273497 55.2965337,67.7345883 L52.6304243,116.97495 L51.943369,131.1115 L50.4649132,160.272476 L50.3781276,162.373944 L50.375456,162.536354 C50.375456,163.886398 49.6482744,165.439252 47.8370096,165.439252 C46.0257447,165.439252 45.4224702,164.0182 45.3157312,162.839441 L44.90053,153.913371 L42.2918084,102.600639 L40.3812734,67.7345883 C40.2149298,65.3273497 43.3217909,63.2824718 47.4142274,63.0289558 L47.413216,63.0026241 L47.8401938,63.0092838 L48.2645911,63.0026241 Z" id="矩形-2" fill="url(#linearGradient-1)"></path>
+                    <g id="矩形">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="蒙版" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                        <ellipse id="椭圆形" fill="url(#linearGradient-5)" mask="url(#mask-4)" transform="translate(25.4724, 33.2475) rotate(-330) translate(-25.4724, -33.2475)" cx="25.4724349" cy="33.2475403" rx="17.6917663" ry="29.7439594"></ellipse>
+                    </g>
+                    <path d="M106.590193,77.2667086 C117.053281,69.3262757 129.699167,68.8756076 134.835571,76.2601132 C139.971975,83.6446187 135.653845,96.067936 125.190758,104.008369 C117.419086,109.906287 108.443148,111.672044 102.234763,109.164092 L49.8476246,164.238645 L46.4050839,160.642789 L98.0387214,106.354911 C97.6443594,105.941259 97.2790268,105.494642 96.94538,105.014964 C91.808976,97.6304587 96.127106,85.2071415 106.590193,77.2667086 Z" id="路径" fill="url(#linearGradient-6)" fill-rule="nonzero" filter="url(#filter-7)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

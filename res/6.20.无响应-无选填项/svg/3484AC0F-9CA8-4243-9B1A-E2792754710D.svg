@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165.462857px" height="196.93947px" viewBox="0 0 165.462857 196.93947" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AED设备备份</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="7.25808377%" id="linearGradient-1">
+            <stop stop-color="#FF7400" stop-opacity="0.665182474" offset="0%"></stop>
+            <stop stop-color="#FF7400" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-13.5%" y="-10.9%" width="127.0%" height="121.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5.86285714" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="36.4353634%" y1="4.09550928%" x2="50%" y2="65.9935132%" id="linearGradient-3">
+            <stop stop-color="#FF8D2F" offset="0%"></stop>
+            <stop stop-color="#F67000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M54.9864868,0 C85.3556387,0 110.084324,24.8151687 110.082174,54.1639787 C109.868215,104.438914 54.9872034,138.104493 54.9872034,138.104493 C54.9872034,138.104493 0,104.90986 0,55.2415502 C0.00143308175,25.8925858 24.6181948,0 54.9864868,0 Z M55.0410872,26.1798354 C39.0873416,26.1798354 26.1542755,39.1255407 26.1542755,55.0948775 C26.1542755,71.0642142 39.0873416,84.0099195 55.0410872,84.0099195 C70.9948328,84.0099195 83.927899,71.0642142 83.927899,55.0948775 C83.927899,39.1255407 70.9948328,26.1798354 55.0410872,26.1798354 Z" id="path-4"></path>
+        <linearGradient x1="52.7780926%" y1="68.3103365%" x2="42.312051%" y2="93.018349%" id="linearGradient-6">
+            <stop stop-color="#F67000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E14F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.9453505%" y1="92.9301008%" x2="36.0025026%" y2="27.366456%" id="linearGradient-7">
+            <stop stop-color="#FF9116" offset="0%"></stop>
+            <stop stop-color="#FF730E" offset="51.2830534%"></stop>
+            <stop stop-color="#EA5D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.13378693%" x2="77.7735534%" y2="88.694582%" id="linearGradient-8">
+            <stop stop-color="#FFF3EA" offset="0%"></stop>
+            <stop stop-color="#FFB272" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28.2994286,78.313856 L30.9737143,70.9610868 L43.2754286,70.9610868 L45.9497143,78.313856 L51.0925714,78.313856 L39.8605714,48.9849329 L34.3885714,48.9849329 L23.1565714,78.313856 L28.2994286,78.313856 Z M41.8354286,67.0177022 L32.4137143,67.0177022 L37.0628571,54.1606252 L37.2274286,54.1606252 L41.8354286,67.0177022 Z M75.8605714,78.313856 L75.8605714,74.2061637 L58.7862857,74.2061637 L58.7862857,65.3335483 L74.1737143,65.3335483 L74.1737143,61.225856 L58.7862857,61.225856 L58.7862857,53.0926252 L75.1611429,53.0926252 L75.1611429,48.9849329 L53.9725714,48.9849329 L53.9725714,78.313856 L75.8605714,78.313856 Z M91.1245714,78.313856 C95.8971429,78.313856 99.4765714,76.9993945 101.945143,74.3704714 C104.290286,71.8647791 105.483429,68.2910868 105.483429,63.6493945 C105.483429,58.9666252 104.290286,55.3929329 101.945143,52.9283176 C99.4765714,50.2993945 95.8971429,48.9849329 91.1245714,48.9849329 L80.3862857,48.9849329 L80.3862857,78.313856 L91.1245714,78.313856 Z M90.2194286,74.2061637 L85.2,74.2061637 L85.2,53.0926252 L90.2194286,53.0926252 C93.8811429,53.0926252 96.5554286,53.9141637 98.2422857,55.5983176 C99.888,57.2413945 100.710857,59.9524714 100.710857,63.6493945 C100.710857,67.2641637 99.888,69.9341637 98.2422857,71.6593945 C96.5554286,73.3435483 93.8811429,74.2061637 90.2194286,74.2061637 Z" id="path-9"></path>
+        <filter x="-14.6%" y="-30.7%" width="129.2%" height="181.8%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.943868886   0 0 0 0 0.375127378   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.20.无响应-无选填项" transform="translate(-49.2686, -860.9691)">
+            <g id="AED设备备份" transform="translate(60, 870)">
+                <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="144" height="178"></rect>
+                <g id="编组-4备份-8" transform="translate(6.8571, 8.5577)">
+                    <g id="编组-4备份-5">
+                        <g id="编组-5备份-18" fill="url(#linearGradient-1)">
+                            <path d="M116.512653,104.598893 C125.167347,93.6665023 130.285714,79.8620425 130.285714,64.8531668 C130.285714,29.0912777 101.06449,0 65.1428571,0 C29.2212245,0 0,29.0912777 0,64.8531668 C0,79.6311367 4.96209057,93.2414646 13.2872987,104.092288 L13.68,104.598893 L13.7730612,104.598893 L21.5902041,113.863631 L39.2718367,134.338703 L61.6065306,160.187322 C62.5371429,161.206443 63.7469388,161.762327 65.1428571,161.762327 C66.4515306,161.762327 67.5966199,161.273757 68.5014449,160.372956 L68.6791837,160.187322 L91.0148097,134.338357 L108.69551,113.863631 L116.605714,104.598893 L116.512653,104.598893 Z" id="蒙版备份" filter="url(#filter-2)"></path>
+                        </g>
+                        <g id="路径-16" transform="translate(10.1018, 8.8981)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="蒙版" fill="url(#linearGradient-3)" fill-rule="nonzero" xlink:href="#path-4"></use>
+                            <polygon fill="url(#linearGradient-6)" mask="url(#mask-5)" points="55.0410872 91.8247958 55.0410872 138.104493 112.939211 125.372924 115.93763 68.1942197 121.106712 -30.3782012 55.0410872 -25.4128291"></polygon>
+                        </g>
+                        <ellipse id="形状结合" stroke="url(#linearGradient-8)" stroke-width="0.342857143" fill="url(#linearGradient-7)" cx="65.1428571" cy="65.4430868" rx="44.5714286" ry="43.61"></ellipse>
+                    </g>
+                    <g id="AED" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

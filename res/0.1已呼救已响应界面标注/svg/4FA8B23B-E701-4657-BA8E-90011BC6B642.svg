@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="278px" viewBox="0 0 420 278" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>志愿者信息卡装饰</title>
+    <defs>
+        <path d="M24,0 L396,0 C409.254834,-2.4348735e-15 420,10.745166 420,24 L420,254 C420,267.254834 409.254834,278 396,278 L24,278 C10.745166,278 8.72867636e-15,267.254834 0,254 L0,24 C-1.623249e-15,10.745166 10.745166,5.98758718e-15 24,0 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="0.1已呼救已响应界面标注" transform="translate(-2436, -1689)">
+            <g id="椭圆形" transform="translate(2436, 1689)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <ellipse fill="#FFFFFF" opacity="0.100000001" mask="url(#mask-2)" cx="84" cy="-9" rx="154" ry="108"></ellipse>
+                <ellipse id="椭圆形备份" fill="#FFFFFF" opacity="0.100000001" mask="url(#mask-2)" cx="288" cy="-72" rx="154" ry="108"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

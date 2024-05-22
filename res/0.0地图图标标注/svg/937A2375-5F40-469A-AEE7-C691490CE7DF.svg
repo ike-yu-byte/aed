@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210px" height="260px" viewBox="0 0 210 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AED位置放大</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="7.25808377%" id="linearGradient-1">
+            <stop stop-color="#FF7400" stop-opacity="0.665182474" offset="0%"></stop>
+            <stop stop-color="#FF7400" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-13.5%" y="-10.9%" width="127.0%" height="121.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="8.55" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="36.478805%" y1="4.09550928%" x2="50%" y2="65.9935132%" id="linearGradient-3">
+            <stop stop-color="#FF8D2F" offset="0%"></stop>
+            <stop stop-color="#F67000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M80.1886266,0 C124.476973,0 160.539639,36.2468756 160.536504,79.115924 C160.224481,152.551223 80.1896716,201.725664 80.1896716,201.725664 C80.1896716,201.725664 0,153.239121 0,80.6899047 C0.00208991088,37.8206309 35.9015341,0 80.1886266,0 Z M80.2682522,38.240209 C57.0023732,38.240209 38.1416518,57.1496662 38.1416518,80.4756637 C38.1416518,103.801661 57.0023732,122.711118 80.2682522,122.711118 C103.534131,122.711118 122.394853,103.801661 122.394853,80.4756637 C122.394853,57.1496662 103.534131,38.240209 80.2682522,38.240209 Z" id="path-4"></path>
+        <linearGradient x1="52.7691956%" y1="68.3103365%" x2="42.3366721%" y2="93.018349%" id="linearGradient-6">
+            <stop stop-color="#F67000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E14F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="71.9453505%" y1="93.0680288%" x2="36.0025026%" y2="27.2937378%" id="linearGradient-7">
+            <stop stop-color="#FF9116" offset="0%"></stop>
+            <stop stop-color="#FF730E" offset="51.2830534%"></stop>
+            <stop stop-color="#EA5D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.98%" x2="77.7735534%" y2="88.8189019%" id="linearGradient-8">
+            <stop stop-color="#FFF3EA" offset="0%"></stop>
+            <stop stop-color="#FFB272" offset="100%"></stop>
+        </linearGradient>
+        <path d="M41.27,114.391026 L45.17,103.651026 L63.11,103.651026 L67.01,114.391026 L74.51,114.391026 L58.13,71.5510256 L50.15,71.5510256 L33.77,114.391026 L41.27,114.391026 Z M61.01,97.8910256 L47.27,97.8910256 L54.05,79.1110256 L54.29,79.1110256 L61.01,97.8910256 Z M110.63,114.391026 L110.63,108.391026 L85.73,108.391026 L85.73,95.4310256 L108.17,95.4310256 L108.17,89.4310256 L85.73,89.4310256 L85.73,77.5510256 L109.61,77.5510256 L109.61,71.5510256 L78.71,71.5510256 L78.71,114.391026 L110.63,114.391026 Z M132.89,114.391026 C139.85,114.391026 145.07,112.471026 148.67,108.631026 C152.09,104.971026 153.83,99.7510256 153.83,92.9710256 C153.83,86.1310256 152.09,80.9110256 148.67,77.3110256 C145.07,73.4710256 139.85,71.5510256 132.89,71.5510256 L117.23,71.5510256 L117.23,114.391026 L132.89,114.391026 Z M131.57,108.391026 L124.25,108.391026 L124.25,77.5510256 L131.57,77.5510256 C136.91,77.5510256 140.81,78.7510256 143.27,81.2110256 C145.67,83.6110256 146.87,87.5710256 146.87,92.9710256 C146.87,98.2510256 145.67,102.151026 143.27,104.671026 C140.81,107.131026 136.91,108.391026 131.57,108.391026 Z" id="path-9"></path>
+        <filter x="-15.8%" y="-32.7%" width="131.7%" height="188.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.943868886   0 0 0 0 0.375127378   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.0地图图标标注" transform="translate(-1606, -1971)">
+            <g id="AED位置放大" transform="translate(1606, 1971)">
+                <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="210" height="260"></rect>
+                <g id="编组-4备份-8" transform="translate(10, 12.5)">
+                    <g id="编组-4备份-5">
+                        <g id="编组-5备份-18" fill="url(#linearGradient-1)">
+                            <path d="M169.914286,152.7849 C182.535714,136.816239 190,116.652422 190,94.7293447 C190,42.4928775 147.385714,0 95,0 C42.6142857,0 0,42.4928775 0,94.7293447 C0,116.315144 7.23638208,136.195398 19.3773107,152.044915 L19.95,152.7849 L20.0857143,152.7849 L31.4857143,166.317664 L57.2714286,196.225071 L89.8428571,233.981481 C91.2,235.470085 92.9642857,236.282051 95,236.282051 C96.9084821,236.282051 98.578404,235.568409 99.8979405,234.252632 L100.157143,233.981481 L132.729931,196.224567 L158.514286,166.317664 L170.05,152.7849 L169.914286,152.7849 Z" id="蒙版备份" filter="url(#filter-2)"></path>
+                        </g>
+                        <g id="路径-16" transform="translate(14.7317, 12.9972)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="蒙版" fill="url(#linearGradient-3)" fill-rule="nonzero" xlink:href="#path-4"></use>
+                            <polygon fill="url(#linearGradient-6)" mask="url(#mask-5)" points="80.2682522 134.126106 80.2682522 201.725664 164.703016 183.128989 169.07571 99.6095344 176.613954 -44.3726535 80.2682522 -37.1198627"></polygon>
+                        </g>
+                        <ellipse id="形状结合" stroke="url(#linearGradient-8)" stroke-width="0.5" fill="url(#linearGradient-7)" cx="95" cy="95.5910256" rx="65" ry="63.7"></ellipse>
+                    </g>
+                    <g id="AED" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

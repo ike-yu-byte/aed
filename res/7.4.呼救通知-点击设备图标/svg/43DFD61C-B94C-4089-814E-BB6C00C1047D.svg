@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="69.5755587px" viewBox="0 0 74 69.5755587" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合</title>
+    <defs>
+        <filter x="-36.7%" y="-19.8%" width="173.3%" height="156.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.335473121 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="71.7005493%" y1="81.8737318%" x2="18.5536606%" y2="11.5348802%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7.4.呼救通知-点击设备图标" transform="translate(-119, -574.8836)" fill="url(#linearGradient-2)">
+            <g id="AED设备" transform="translate(48, 465)">
+                <g id="首页-设备图片" transform="translate(36, 48)">
+                    <g id="编组-24" filter="url(#filter-1)" transform="translate(27, 11.9806)">
+                        <path d="M36.2543783,59.9030286 C40.0688153,59.9030286 43.3817165,61.8468149 45.0002063,64.6758818 C46.4568659,62.1293642 49.286551,60.3001253 52.6198912,59.9601405 L47.720898,69.3979424 L55.503893,71.6209476 L49.753,76.9180286 L47.5643769,75.507431 L47.8995169,80.0001582 L52.3963571,78.622725 L50.482,77.3880286 L58.3676215,70.5786477 L50.9138995,68.3602203 L55.8759228,60.1418137 C60.3767748,61.1877955 63,65.5001767 63,69.687666 C63,80.5877799 47.653093,90.0727332 45.7076653,91.2309716 L45.5971418,91.296362 C45.5672857,91.3139017 45.5445234,91.327158 45.5291812,91.3360526 C45.3655786,91.431213 45.1832019,91.4785873 45,91.4785873 C44.8167981,91.4785873 44.6346277,91.431213 44.4708188,91.3360526 C44.4554766,91.327158 44.4327143,91.3139017 44.4028582,91.296362 L44.2923347,91.2309716 C42.346907,90.0727332 27,80.5877799 27,69.687666 C27,64.8777373 30.4612369,59.9030286 36.2543783,59.9030286 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
